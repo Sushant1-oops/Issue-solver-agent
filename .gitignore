@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Agent clones + generated venvs
+backend/workspace/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
